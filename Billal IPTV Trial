@@ -5,8 +5,13 @@ https://i.postimg.cc/sxQMdvDP/20240303-181601.png
 https://s.id/Atnbangbd
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/1RgMBBcT/DBC-News-Logo-svg.png",DBC News
 https://s.id/DBCnews
+Indian Bangla
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/Fs64qD2L/images.jpg",Sony Aath
-https://s.id/Sony8
+https://test.bongodrive.pw/bdix.m3u8?ac=1409
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/PNsyPG88/Star-Jalsha-logo-2023.png",Star Jalsha
+https://s.id/23EdA
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/PNsyPG88/Star-Jalsha-logo-2023.png",Zee Bangla
+https://api.bongohub.pw/bongo.php?cc=zee-bangla
 
 English Movie
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.postimg.cc/Xv7ZK2fG/HBO-logo-svg.png",HBO
