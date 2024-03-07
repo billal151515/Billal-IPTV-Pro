@@ -17,10 +17,13 @@ https://test.bongodrive.pw/bdix.m3u8?ac=1409
 https://s.id/23EdA
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/2Sv64sLS/unnamed.jpg",Zee Bangla
 http://51.159.13.107:8090/BD_ZEEBANGLAHD/tracks-v1a1/mono.m3u8
+http://watchindia.net:8880/live/62448/92037/2283.ts
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/rwwpbWQK/Enterr10-Bangla.jpg",Enter10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/0ynV5gYV/Sun-Bangla.png",Sun Bangla
 http://148.113.5.31:8106/play/a00z/index.m3u8
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
 English Movie
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.postimg.cc/Xv7ZK2fG/HBO-logo-svg.png",HBO
 https://s.id/23Eb7
