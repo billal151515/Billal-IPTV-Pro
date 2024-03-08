@@ -12,9 +12,8 @@ https://s.id/Diptotv
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/tTsNMPPb/NTV-Bangladesh-logo-svg.png",NTV
 https://s.id/23OKU
 
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="",SATV
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="",Satv
 http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
-
 
 Indian Bangla
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="",Sony Aath
