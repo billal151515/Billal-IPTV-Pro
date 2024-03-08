@@ -10,10 +10,11 @@ https://s.id/DBCnews
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/RFJbn2gw/Deepto-TV-logo.png",Deepto TV
 https://s.id/Diptotv
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/tTsNMPPb/NTV-Bangladesh-logo-svg.png",NTV
-https://s.id/23OKU
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png",Satv
 http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/tTsNMPPb/NTV-Bangladesh-logo-svg.png",NTV
+https://s.id/23OKU
 
 Indian Bangla
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="",Sony Aath
