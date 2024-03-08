@@ -17,11 +17,11 @@ http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
 https://s.id/23OKU
 
 Indian Bangla
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="",Sony Aath
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/HxxBn8Vh/Sony-Aath-new.png",Sony Aath
 https://test.bongodrive.pw/bdix.m3u8?ac=1409
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/PNsyPG88/Star-Jalsha-logo-2023.png",Star Jalsha
 https://s.id/23EdA
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="",Jalsha Movie
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/tRDnDvvW/Jalsha-Movies.png",Jalsha Movie
 http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=7970&deviceMac=00:1A:79:31:34:35
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/2Sv64sLS/unnamed.jpg",Zee Bangla
 http://51.159.13.107:8090/BD_ZEEBANGLAHD/tracks-v1a1/mono.m3u8
