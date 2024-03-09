@@ -15,8 +15,7 @@ http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/tTsNMPPb/NTV-Bangladesh-logo-svg.png",NTV
 https://s.id/23OKU
-
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="",Maasranga tv
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="",Maasranga
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 Indian Bangla
