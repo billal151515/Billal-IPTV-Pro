@@ -15,7 +15,9 @@ http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/tTsNMPPb/NTV-Bangladesh-logo-svg.png",NTV
 https://s.id/23OKU
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="",Maasranga
+
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="",Masranga
+http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 Indian Bangla
@@ -31,7 +33,7 @@ http://watchindia.net:8880/live/62448/92037/2283.ts
 https://s.id/23P2t
 http://xtv.ooo:8080/564587696/474585694/245893
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla", Zee Bangla Cinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M6GyIvI.png" group-title="Indian Bangla",Zee Bangla Cinema
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100702
  
 
