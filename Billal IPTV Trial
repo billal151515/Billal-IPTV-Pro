@@ -16,7 +16,7 @@ https://s.id/Diptotv
 http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/tTsNMPPb/NTV-Bangladesh-logo-svg.png",NTV
 https://s.id/23OKU
-#EXTINF:-1 group-title="Powered By Billal" tvg-logo="",Billal IPTV Pro
+
 
 Indian Bangla
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/HxxBn8Vh/Sony-Aath-new.png",Sony Aath
@@ -36,7 +36,6 @@ http://xtv.ooo:8080/564587696/474585694/245893
 https://s.id/Cbang
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="",Colors Bangla Cinema
 https://s.id/Ccinema
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/J4jcz3x4/image.jpg
 
 English Movie
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.postimg.cc/Xv7ZK2fG/HBO-logo-svg.png",HBO
@@ -61,4 +60,4 @@ https://s.id/23Rrn
 https://s.id/23RsX
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/rmhCXHsD/3EJN4q6.png",Nick Hindi 
 http://xtv.ooo:8080/live/T4S00515/820172/150482.ts
-#EXTINF:-1 group-title="Powered By Billal" tvg-logo="",Billal IPTV Pro
+
