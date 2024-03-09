@@ -2,6 +2,8 @@
 
 #EXTINF:-1 group-title="Powered By Billal" tvg-logo="",Billal IPTV Pro
 https://i.postimg.cc/sxQMdvDP/20240303-181601.png
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo=" ",Masranga tv ch
+https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/d0xt9Jwz/1280px-ATN-Bangla-svg.png",ATN Bangla
 https://s.id/Atnbangbd
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/1RgMBBcT/DBC-News-Logo-svg.png",DBC News
@@ -14,8 +16,7 @@ https://s.id/Diptotv
 http://cdn01.palki.tv/live/SATV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/tTsNMPPb/NTV-Bangladesh-logo-svg.png",NTV
 https://s.id/23OKU
-#EXTINF:-1 group-title="English Movie" tvg-logo=" ",Masranga tv ch
-https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+
 Indian Bangla
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/HxxBn8Vh/Sony-Aath-new.png",Sony Aath
 https://test.bongodrive.pw/bdix.m3u8?ac=1409
