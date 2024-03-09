@@ -32,7 +32,12 @@ http://51.159.13.107:8090/BD_ZEEBANGLAHD/tracks-v1a1/mono.m3u8
 http://watchindia.net:8880/live/62448/92037/2283.ts
 https://s.id/23P2t
 http://xtv.ooo:8080/564587696/474585694/245893
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="",Colors Bangla
+https://s.id/Cbang
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="",Colors Bangla Cinema
+https://s.id/Ccinema
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://i.postimg.cc/J4jcz3x4/image.jpg
+
 English Movie
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.postimg.cc/Xv7ZK2fG/HBO-logo-svg.png",HBO
 https://s.id/23Eb7
