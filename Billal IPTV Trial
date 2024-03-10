@@ -138,6 +138,38 @@ http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.postimg.cc/Y0nTTs5G/images-2.jpg",Movies Now BDIX
 https://s.id/23DYu
 
+****Music
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NsVXMH9/IMG-20240126-094527.png" group-title="Music", SANGEET BANGLA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hR9CK7Q/IMG-20240126-094603.png" group-title="Music", MUSIC INDIA
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/wKPkb8s/IMG-20240129-070202.png",9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/MVtcdVM/IMG-20240126-094633.png" group-title="Music", 9X TASHAN
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xtashan/default/9Xtashan.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G7TdMTC/IMG-20240126-121922.jpg" group-title="Music",Zoom
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
+#EXTINF:-1group-title="Music" tvg-logo="https://i.ibb.co/m6KZVwh/IMG-20240126-121857.jpg",Zing
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
+
+#EXTINF:-1group-title="Music" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/6dbec8ae-f3c1-4f58-a9e7-1bda442b1de5/487bdf23-fe1a-4410-aa93-eda6dfd34dda.jpg?width=300",MTV Beats 
+https://api.bongohub.pw/api/bio.php?ac=mtv-beats
+#EXTINF:-1group-title="Music" tvg-logo="https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/5b042b51-cf7a-4afb-8fa1-7c040b517cc9/8b327084-8b17-40fb-b0c2-84ab8ace4eee.png?width=300",M TV 
+https://api.bongohub.pw/api/bio.php?ac=mtv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QJzQj9d/IMG-20240126-095026.jpg"group-title="Music",Colosal TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/colosal.stream/chunks.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/5FJfSbz/IMG-20240126-122137.png",V2BEAT TV
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/v2beattv.stream/live-orgin/v2beattv.stream/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2PzGpKf/IMG-20240126-095218.png" group-title="Music", AB MASTIII
+https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hKPkY4G/IMG-20240126-095345.png"group-title="Music", SHOW BOX
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Dwy8VQN/IMG-20240126-095458.png" group-title="Music", 9X JHAKAAS
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
+
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/4yDcXRgx/xb-QSPP3-Imgur.png",Discovery Kids
 https://s.id/23Rrn 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="",Cartoon Network HD
@@ -187,4 +219,30 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.ibb.co/QrqVSzj/IMG-20240126-101339.png",Safari TV
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
+
+***** FM Radio
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/zb6wWmP/IMG-20240212-215050.png" group-title="FM Radio",Al Quran Radio
+http://66.45.232.131:9994/;stream.mp3
+#EXTINF: -1 tvg-logo="https://i.ibb.co/WfTvKhd/IMG-20240212-214959.png" group-title="FM Radio",Radio Foorti (88.0)
+https://node-11.zeno.fm/f0bfdk2w34zuv?rj-ttl=5&rj-tok=AAABdMRV22UAcwucDbg4sNb1IQ
+#EXTINF: -1 tvg-logo="https://i.ibb.co/841Rr4j/IMG-20240212-215545.jpg" group-title="FM Radio",Radio Amar (88.4)
+http://118.179.215.45:8000/;stream/1
+#EXTINF: -1 tvg-logo="https://i.ibb.co/P5jFCLf/IMG-20240212-215459.jpg" group-title="FM Radio",Bangladesh Betar (88.8)
+
+
+#EXTINF: -1 tvg-logo="https://i.ibb.co/styG9J7/IMG-20240212-215420.png" group-title="FM Radio",Radio Today (89.6)
+http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
+#EXTINF: -1 tvg-logo="https://i.ibb.co/48kyX8L/IMG-20240212-215134.jpg" group-title="FM Radio",Big FM (92.7)
+http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
+#EXTINF: -1 tvg-logo="https://i.ibb.co/9hq0zm1/IMG-20240212-220638.png" group-title="FM Radio",Jago FM (94.4)
+http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
+#EXTINF: -1 tvg-logo="https://i.ibb.co/B4YzRsk/IMG-20240212-215334.jpg" group-title="FM Radio",Radio Mirchi (98.3)
+http://peridot.streamguys.com:7150/Mirchi
+#EXTINF: -1 tvg-logo="https://i.ibb.co/LrttyZD/IMG-20240212-215247.png" group-title="FM Radio",Radio Ekattor (98.4)
+http://192.144.82.200:9302/;stream/1;;
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://i.ibb.co/ZWDKwRz/IMG-20240212-215312.jpg",Radio Sarabela (98.8)
+http://103.4.145.50:8000/stream/1/
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://i.ibb.co/rZFZZy4/IMG-20240212-215212.png",Radio Padma (99.2)
+http://cassini.shoutca.st:9109/radiopadma.mp3
 
