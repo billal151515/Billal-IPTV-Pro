@@ -2,10 +2,29 @@
 
 #EXTINF:-1 group-title="Powered By Billal" tvg-logo="",Billal IPTV Pro
 https://i.postimg.cc/sxQMdvDP/20240303-181601.png
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/kS8pK5H/IMG-20240129-062928.png",Anando Tv
+http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/MnQK7Gt/IMG-20240129-063323.png" group-title="Bangladeshi",Asian TV
+http://cdn01.palki.tv/live/AsianTV-M/index.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/KbwLvYr/IMG-20240126-092500.png",Banglavision
+https://s.id/Banglavision
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/SQyR6TT/IMG-20240126-092532.png",Boishakhi TV
+https://s.id/BoishakhiTV
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/tPSbC6D/IMG-20240126-092155.png",Channel i
+https://s.id/Chani
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/1dJrphZ/IMG-20240129-063657.png",Channel 9
+http://cdn01.palki.tv/live/Channel9-M/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/GxHV7q5/IMG-20240126-122220.png",ETV BANGLA
+https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo=" ",Masranga tv ch
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/54LQ5Mz/IMG-20240126-092402.png",Mohona TV
+https://s.id/Mohonatv
+
+#EXTINF:-1 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png",My Tv
+https://bongohub.pw/bioscope.php?cc=my-tv
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/d0xt9Jwz/1280px-ATN-Bangla-svg.png",ATN Bangla
-https://s.id/Atnbangbd
+https://s.id/Atnbang
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/1RgMBBcT/DBC-News-Logo-svg.png",DBC News
 https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png",R tv
