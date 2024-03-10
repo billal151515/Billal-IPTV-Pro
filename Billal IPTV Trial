@@ -51,10 +51,53 @@ http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.postimg.cc/Y0nTTs5G/images-2.jpg",Movies Now BDIX
 https://s.id/23DYu
 
-#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/4yDcXRgx/xb-QSPP3-Imgur.png",Discovery Kids
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/4yDcXRgx/xb-QSPP3-Imgur.png",Discovery Kids
 https://s.id/23Rrn 
-#EXTINF:-1 group-title="CARTOON" tvg-logo="",Cartoon Network HD
+#EXTINF:-1 group-title="Cartoon" tvg-logo="",Cartoon Network HD
 https://s.id/23RsX
-#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/rmhCXHsD/3EJN4q6.png",Nick Hindi 
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.postimg.cc/rmhCXHsD/3EJN4q6.png",Nick Hindi 
 http://xtv.ooo:8080/live/T4S00515/820172/150482.ts
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.ibb.co/1XsGsgq/IMG-20240129-070805.jpg",Nick BANGLA
+https://bongodrive.pw/bioscope.m3u8?id=nickelodeon
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.ibb.co/hHLG38G/IMG-20240129-070736.png",Nick JR
+https://api.bongohub.pw/api/bio.php?ac=nick-junior
+
+#EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.ibb.co/PcBBG8W/IMG-20240129-071139.png",NAT GEO Wild
+https://nat-geo-wild.mssarena71.workers.dev/stream/NatGeoWild/master.m3u8 
+#EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.ibb.co/VTgHSp4/IMG-20240126-100658.jpg",Wild Earth(BD)
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.ibb.co/fSZ39zj/IMG-20240129-071418.png",Animal Planet
+https://food-dlvr-ott.akamaized.net:443/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co/4wLmY5L/IMG-20240129-071503.jpg", WEATHER SPY
+https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co/kqPYFL1/IMG-20240129-071541.png",Discovery Bangla
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.ibb.co/7Xqcg3M/IMG-20240129-071722.png",Discovery Science
+https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.ibb.co/3yp7V9G/IMG-20240129-071756.png",Discovery Turbo
+https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co/ctD0Lss/IMG-20240129-071829.png",Food Network
+https://dplus.gammacdn.workers.dev/videos/112.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co/QFFs9zc/IMG-20240126-100324.jpg",HGTV
+https://dplus.gammacdn.workers.dev/videos/111.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co/3hQBDBj/IMG-20240129-071855.jpg",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.ibb.co/MBZH8Lm/IMG-20240126-100521.png",CGTN (Prog)
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY"  tvg-logo="https://i.ibb.co/9cdd9kN/IMG-20240126-100608.png",Tastemade Australia
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.ibb.co/9cdd9kN/IMG-20240126-100608.png",Tastemade Australia
+https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co/D7FjWDK/IMG-20240126-101025.jpg",Xlpore English(BD)
+http://xlpore-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.ibb.co/hW5V8j0/IMG-20240126-101107.jpg",Nasa TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.ibb.co/02sMNMW/IMG-20240126-101133.png",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.ibb.co/hW5V8j0/IMG-20240126-101107.jpg",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.ibb.co/QrVSnNC/IMG-20240126-101304.jpg",Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="DOCUMENTARY"tvg-logo="https://i.ibb.co/QrqVSzj/IMG-20240126-101339.png",Safari TV
+https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 
