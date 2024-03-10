@@ -115,6 +115,11 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/Wkf0pMk/IMG-20240126-115243.png",& Pictures HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/index.m3u
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/GsDhxpV/IMG-20240129-065445.png",Sony Max 2
+https://bongodrive.pw/bioscope.m3u8?id=max-2
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/F5Y27mL/IMG-20240129-065527.png",Sony Pix
+https://bongodrive.pw/bioscope.m3u8?id=sony-pix-live
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/TgdZysJ/IMG-20240129-065636.jpg",Sony Pix HD
 ****English Movie
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.postimg.cc/Xv7ZK2fG/HBO-logo-svg.png",HBO
 https://s.id/23Eb7
