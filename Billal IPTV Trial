@@ -262,6 +262,14 @@ http://192.144.82.200:9302/;stream/1;;
 http://103.4.145.50:8000/stream/1/
 #EXTINF:-1 group-title="FM Radio" tvg-logo="https://i.ibb.co/rZFZZy4/IMG-20240212-215212.png",Radio Padma (99.2)
 http://cassini.shoutca.st:9109/radiopadma.mp3
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://i.imgur.com/Ca6gh7i.png",Radio BongOnet
+https://stream.bongonet.net/proxy/radiobongonet?mp=/stream/1/
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://i.imgur.com/d09PXR5.jpg",Radio Retro Bollywood
+https://stream-140.zeno.fm/g372rxef798uv?zs=zMsr18fRTH-5eFy8qKIW-g
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://i.imgur.com/UScHwWO.jpg",Radio Bolly FM
+https://stream-160.zeno.fm/zu59ykebs2zuv?zs=TJdihQC0Q8CabTsCGBWA4A
+#EXTINF:-1 group-title="FM REDIO" tvg-logo="https://i.imgur.com/MihH9i8.png",Radio Mahananda
+https://radiomahanandafm.radioca.st/rm.mp3
 
 #EXTINF:-1 group-title="Starshare channel" tvg-logo="",Cartoon Network HD
 
