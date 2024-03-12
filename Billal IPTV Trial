@@ -132,7 +132,7 @@ https://bongodrive.pw/bioscope.m3u8?id=sony-pix-live
 http://170.254.18.106/AXN/index.m3u8
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.postimg.cc/Xv7ZK2fG/HBO-logo-svg.png",HBO
 https://s.id/23Eb7
-#EXTINF:-1 group-title="English" tvg-logo="https://i.ibb.co/VCTFt6y/IMG-20240129-065809.png",CINEMAX
+#EXTINF:-1 group-title="English Movie" tvg-logo="https://i.ibb.co/VCTFt6y/IMG-20240129-065809.png",CINEMAX
 http://64.31.40.14:14031/
 #EXTINF:-1 group-title="English Movie" tvg-logo="https://i.imgur.com/uNWHQxu.png",MN+ BDIX
 https://s.id/23E7p
