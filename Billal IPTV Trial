@@ -233,7 +233,12 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 
 ***** FM Radio
-
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://i.imgur.com/AfY8NAf.jpg",Bangladesh Betar 
+http://as3.digitalsynapsebd.com:8263/;stream.mp3
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://i.postimg.cc/KYsbMdQp/BBC-Bangla-logo-svg.png",BBC BANGLA/UK/ENGLISH 
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://i.imgur.com/16uHVGr.png",Redio Shadin
+http://stream-157.zeno.fm/umq9q5uuva5tv?zs=RZTxFKUnRZeT5gVmKwDoCA
 #EXTINF: -1 tvg-logo="https://i.ibb.co/zb6wWmP/IMG-20240212-215050.png" group-title="FM Radio",Al Quran Radio
 http://66.45.232.131:9994/;stream.mp3
 #EXTINF: -1 tvg-logo="https://i.ibb.co/WfTvKhd/IMG-20240212-214959.png" group-title="FM Radio",Radio Foorti (88.0)
